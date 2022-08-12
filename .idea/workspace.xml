@@ -1,14 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6264815-5501-49fb-82db-04343a25b17e" name="Changes" comment="" />
+    <list default="true" id="c6264815-5501-49fb-82db-04343a25b17e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java/modelo/Util/JDBCUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/controlador/Controlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/controlador/Controlador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/modelo/DAO/Consulta2DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/modelo/DAO/Consulta2DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/modelo/DAO/Consulta3DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/modelo/DAO/Consulta3DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/modelo/VO/Consulta1VO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/modelo/VO/Consulta1VO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/modelo/VO/Consulta2VO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/modelo/VO/Consulta2VO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/modelo/VO/Consulta3VO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/modelo/VO/Consulta3VO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/vista/vistaIngreso.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/vista/vistaIngreso.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/vista/vistaIngreso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/vista/vistaIngreso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/vista/vistaProceso.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/vista/vistaProceso.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/vista/vistaProceso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/vista/vistaProceso.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2DDjRM7dTnEz4DwcXVg9JLmTpjt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +52,30 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE": "left",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE": "right",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Familia Ariza Catsro\IdeaProjects\Unidad5\src" />
+      <recent name="C:\Users\Familia Ariza Catsro\IdeaProjects\Unidad5\src\main\java" />
+      <recent name="C:\Users\Familia Ariza Catsro\IdeaProjects\Unidad5\src\main" />
+      <recent name="C:\Users\Familia Ariza Catsro\IdeaProjects\Unidad5\src\main\java\vista" />
+      <recent name="C:\Users\Familia Ariza Catsro\IdeaProjects\Unidad5\src\main\java\image" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +86,29 @@
       <updated>1660240544016</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
